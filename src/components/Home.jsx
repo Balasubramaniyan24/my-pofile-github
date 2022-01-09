@@ -67,7 +67,7 @@ function Home() {
               <br />
               <br />I am good in classics like
               <i>
-                <b className="purple"> Html, Css, Javascript. </b>
+                <b className="purple"> Html, Css, Javascript, React.js . </b>
               </i>
               <br />
               <br />
@@ -82,10 +82,11 @@ practising more on that to improve my skills/exposure to reach my Goal.
             </Tilt>
           </Col>
         </Row>
+        <br></br>
 
         <div >
       <h3 style={{color:"#87AAAA"}}>EXPERIENCE</h3>
-      <h4> Pangali Virundhu Restaraunt July-2021 - November2021</h4>
+      <h4> Pangali Virundhu Restaraunt June-2021 - November2021</h4>
       <h4 ><span style={{color:"#577BC1"}}>Designation</span> : Computer Operator </h4>
       <ul>
         <li>  Involved in  management of Billing apllication,  online orders from
