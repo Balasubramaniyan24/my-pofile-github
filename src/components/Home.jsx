@@ -96,9 +96,9 @@ practising more on that to improve my skills/exposure to reach my Goal.
       </ul>
       <h3 style={{color:"#87AAAA"}}>Education</h3>
       <ul>
-        <li>Bachelor of Computer Applications: BCA - YADAVA College, Madurai. 2021 – 81.0%</li>
+        <li>Bachelor of Computer Applications: BCA - YADAVA College, Madurai. 2021 – 72.0%</li>
     <li>12th- ST. Michael Matriculation H.S.S – Madurai 2018 – 67.0% </li>
-            <li> 10th- Balamandiram Higher Secondary School – Madurai 2016 – 72.0%</li>
+            <li> 10th- Balamandiram Higher Secondary School – Madurai 2016 – 81.0%</li>
                </ul>
                <h3 style={{color:"#87AAAA"}}>Others</h3>
                     <ul>
