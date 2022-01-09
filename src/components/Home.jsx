@@ -5,12 +5,12 @@ import myImg from "../Assets/avatar.gif";
 import Particle from "../Particle";
 import Tilt from "react-parallax-tilt";
 //import Home2 from "./Home2";
-import {
-    AiFillGithub,
-    AiOutlineTwitter,
-    AiFillInstagram,
-  } from "react-icons/ai";
-  import { FaLinkedinIn } from "react-icons/fa";
+//import {
+ //   AiFillGithub,
+ //   AiOutlineTwitter,
+ //   AiFillInstagram,
+  //} from "react-icons/ai";
+  //import { FaLinkedinIn } from "react-icons/fa";
 import Typewriter from "typewriter-effect";
 
 function Home() {
@@ -27,7 +27,7 @@ function Home() {
 
               <h3 className="heading-name" style={{color:"#A5E1AD"}} >
                 I'm
-                <strong className="main-name"  > Balasubramaniyan.</strong>
+                <strong className="main-name"  > Balasubramaniyan</strong>
               </h3>
 
               <div style={{ padding: 50, textAlign: "left" }}>
