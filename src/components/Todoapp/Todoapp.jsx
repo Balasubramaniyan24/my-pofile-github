@@ -30,7 +30,7 @@ const TodoApp = () => {
 
 	const [searchText, setSearchText] = useState('');
 
-	const [darkMode, setDarkMode] = useState(false);
+//npm	const [darkMode, setDarkMode] = useState(false);
 
 	useEffect(() => {
 		const savedNotes = JSON.parse(
