@@ -86,7 +86,7 @@ practising more on that to improve my skills/exposure to reach my Goal.
 
         <div >
       <h3 style={{color:"#87AAAA"}}>EXPERIENCE</h3>
-      <h4> Pangali Virundhu Restaraunt June-2021 - November2021</h4>
+      <h4> Pangali Virundhu Restaraunt <br></br> <span style={{fontSize:".8rem"}}>June 2021 - November2021</span></h4>
       <h4 ><span style={{color:"#577BC1"}}>Designation</span> : Computer Operator </h4>
       <ul>
         <li>  Involved in  management of Billing apllication,  online orders from
@@ -97,17 +97,17 @@ practising more on that to improve my skills/exposure to reach my Goal.
       </ul>
       <h3 style={{color:"#87AAAA"}}>Education</h3>
       <ul>
-        <li>Bachelor of Computer Applications: BCA - YADAVA College, Madurai. 2021 – 72.0%</li>
-    <li>12th- ST. Michael Matriculation H.S.S – Madurai 2018 – 67.0% </li>
-            <li> 10th- Balamandiram Higher Secondary School – Madurai 2016 – 81.0%</li>
+        <li>Bachelor of Computer Applications: BCA - YADAVA College, Madurai 2021 – 72.0% .</li>
+    <li>12th- ST. Michael Matriculation H.S.S – Madurai 2018 – 67.0% .</li>
+            <li> 10th- Balamandiram Higher Secondary School – Madurai 2016 – 81.0% .</li>
                </ul>
                <h3 style={{color:"#87AAAA"}}>Others</h3>
                     <ul>
-                   <li><strong style={{color:"#577BC1"}}>Languages</strong>: Tamil, English </li>
-                              <li><strong style={{color:"#577BC1"}}> Hobbies</strong>: Playing cricket, cooking, exploring new places</li>
+                   <li><strong style={{color:"#577BC1"}}>Languages</strong>: Tamil, English. </li>
+                              <li><strong style={{color:"#577BC1"}}> Hobbies</strong>: Playing cricket, cooking, exploring new places.</li>
                               <li> Excellent communication and Inter-Personal Skills, Well organized, Goal oriented.</li>
                                <li>Being a Class Representative since my childhood to college days, it is easy for me to work
-                                        with people, I’m a good team player and also manage various Tasks</li>
+                                        with people, I’m a good team player and also manage various Tasks.</li>
                     </ul>
     
     </div>
@@ -120,7 +120,7 @@ practising more on that to improve my skills/exposure to reach my Goal.
                       <li class="btn btn-secondary" style={{ display: "inline", marginRight:"20px" }}>
                       <a  href="https://www.linkedin.com/in/balasubramaniyan-t-340167210/"
                   target="_blank" style={{ all: "unset" }}
-                  rel="noreferrer" > Linkedin ... </a>
+                  rel="noreferrer" > Linkedin  </a>
                       </li>
                       <li class="btn btn-secondary" style={{ display: "inline"}}>
                         
