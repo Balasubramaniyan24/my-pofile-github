@@ -27,7 +27,7 @@ function Home() {
 
               <h3 className="heading-name" style={{color:"#A5E1AD"}} >
                 I'm
-                <strong className="main-name"  > Balasubramaniyan</strong>
+                <strong className="main-name"  > Balasubramaniyan.</strong>
               </h3>
 
               <div style={{ padding: 50, textAlign: "left" }}>
