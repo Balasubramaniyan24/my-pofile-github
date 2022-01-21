@@ -17,7 +17,7 @@ function Home() {
   return (
     <section class="home" >
       <Container className=" home-section" id="home">
-        <Particle />
+       <Particle />
         <Container className=" home-content">
           <Row>
             <Col md={7} className="home-header">
@@ -62,6 +62,7 @@ function Home() {
             <h4 style={{ fontSize: "2.6em", color: "#87AAAA" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h4>
+            <Tilt>
             <p className="home-about-body">
               During My high school days, I came to learn about programming, ever since that i been in love with coding ❤️
               <br />
@@ -75,6 +76,7 @@ function Home() {
               with a focus on developing Awesome websites. I've obtained knowledge on various technologies and
               practising more on that to improve my skills/exposure to reach my Goal.
             </p>
+            </Tilt>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -106,11 +108,11 @@ function Home() {
           <h3 style={{ color: "#87AAAA" }}>Skills & Technologies:</h3>
           <ul>
           <li>Design, develop in HTML5, CSS3, Bootstrap, JavaScript.</li>
-          <li>Tools: Sublime, MS office</li>
-          <li>OS: Windows, Linux </li>
+          <li>Tools: visual studio code</li>
+          <li>OS: Windows</li>
           <li>Deployment: Netlify, GitHub</li>
           <li>Experience on front-end framework – React JS to build User Interactive websites.</li>
-          <li>Also Familiar with XML, JSON, HTTP, Data Structures concepts.</li>
+          
           </ul>
           <h3 style={{ color: "#87AAAA" }}>Others</h3>
           <ul>
