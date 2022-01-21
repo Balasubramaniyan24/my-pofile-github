@@ -62,7 +62,7 @@ function Home() {
             <h4 style={{ fontSize: "2.6em", color: "#87AAAA" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h4>
-            <Tilt>
+            
             <p className="home-about-body">
               During My high school days, I came to learn about programming, ever since that i been in love with coding ❤️
               <br />
@@ -76,7 +76,7 @@ function Home() {
               with a focus on developing Awesome websites. I've obtained knowledge on various technologies and
               practising more on that to improve my skills/exposure to reach my Goal.
             </p>
-            </Tilt>
+            
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
