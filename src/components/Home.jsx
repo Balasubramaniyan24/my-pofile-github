@@ -108,7 +108,7 @@ function Home() {
           <h3 style={{ color: "#87AAAA" }}>Skills & Technologies:</h3>
           <ul>
           <li>Design, develop in HTML5, CSS3, Bootstrap, JavaScript.</li>
-          <li>Tools: visual studio code.</li>
+          <li>Tools: visual studio code. </li>
           <li>OS: Windows</li>
           <li>Deployment: Netlify, GitHub</li>
           <li>Experience on front-end framework – React JS to build User Interactive websites.</li>
